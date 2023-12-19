@@ -1,5 +1,4 @@
-use std::fs::read_to_string;
-use std::num::ParseIntError;
+use std::{fs::read_to_string, num::ParseIntError};
 
 fn main() {
     let path = "src/input.txt";
